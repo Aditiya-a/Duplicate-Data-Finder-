@@ -57,13 +57,25 @@ For a file containing `apple`, `Banana`, `apple`, `banana`, `Cherry`:
 | `summary.md` | This project summary |
 | `unique.txt` | Generated output (unique entries) |
 
-TEST CASE- 01
-<img width="659" height="309" alt="image" src="https://github.com/user-attachments/assets/3786f131-89bd-481e-8c1c-5fabd4968fb7" />
-TEST CASE- 02
-<img width="682" height="216" alt="image" src="https://github.com/user-attachments/assets/b4287d19-39fc-43a6-b218-c13eac7a8519" />
-TEST CASE -03
-<img width="592" height="85" alt="image" src="https://github.com/user-attachments/assets/f0a74b89-bd4a-40e9-873c-37124f22a5f2" />
-TEST CASE -04
+## Test Cases
+
+### Test Case 01: Normal Input
+<img width="650" alt="Test Case 01" src="https://github.com/user-attachments/assets/3786f131-89bd-481e-8c1c-5fabd4968fb7" />
+
+---
+
+### Test Case 02: Boundary / Minimum Input
+<img width="650" alt="Test Case 02" src="https://github.com/user-attachments/assets/b4287d19-39fc-43a6-b218-c13eac7a8519" />
+
+---
+
+### Test Case 03: Invalid Input
+<img width="650" alt="Test Case 03" src="https://github.com/user-attachments/assets/f0a74b89-bd4a-40e9-873c-37124f22a5f2" />
+
+---
+
+### Test Case 04: Ignore Case & Extra Spaces
+<img width="650" alt="Test Case 04" src="https://github.com/user-attachments/assets/079caeeb-a260-4c73-8cf6-60743de47ef6" />
 <img width="459" height="232" alt="image" src="https://github.com/user-attachments/assets/079caeeb-a260-4c73-8cf6-60743de47ef6" />
 
 
